@@ -1,4 +1,4 @@
-# ![logo](LINE.png) LINE Python
+# ![logo](linepy/LINE.png) LINE Python
 
  [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/) 
 
