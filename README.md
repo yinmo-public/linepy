@@ -15,6 +15,7 @@ The linepy module requires Python 3.x  [download](https://www.python.org/downloa
 
 ```
 from linepy import *
+line = LINE()
 line = LINE('token')
 line = LINE('EMAIL', 'PASSWORD')
 line.log("Auth Token : " + str(line.authToken))
