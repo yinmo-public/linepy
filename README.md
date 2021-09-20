@@ -32,4 +32,5 @@ All examples can be found [here](https://github.com/fadhiilrachman/line-py/tree/
 ## Credits to
 [@author](https://line.me/ti/p/3eamxoks_T)
 
-## Update 02/28/2019
+## Update 2021
+⚠ DO NOT USE THIS CODE OR YOU WILL GET BAN CHAT
